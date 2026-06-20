@@ -34,7 +34,7 @@ Proje geliştirme sürecinde Visual Studio Code, Android Studio ve Flutter SDK k
 <p align="center"> <img src="https://github.com/user-attachments/assets/7311eea0-9ce3-414f-9f00-aae486cfe3a1" width="300"/> </p>
 
 ### Detaylar Sayfası
-<p align="center"> <img src="https://github.com/user-attachments/assets/a81a4974-2981-4c54-92af-17b96c2b1345" width="100"/> <img src="https://github.com/user-attachments/assets/1b95ba93-e454-4dc6-a337-c20e4c1fbfb7" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/a81a4974-2981-4c54-92af-17b96c2b1345" width="100"/> <img src="https://github.com/user-attachments/assets/1b95ba93-e454-4dc6-a337-c20e4c1fbfb7" width="100"/> </p>
 
 
 ## 🚀 Kurulum ve Çalıştırma
