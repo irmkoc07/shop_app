@@ -1,17 +1,61 @@
-# shop_app
+# 🛍️ Shop App - Flutter E-Commerce Application
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş modern bir mobil e-ticaret uygulamasıdır. 
+Kullanıcıların ürünleri görüntüleyebilmesi, ürün detaylarını inceleyebilmesi ve kullanıcı dostu bir arayüz üzerinden alışveriş deneyimi yaşayabilmesi amaçlanmıştır.
 
-## Getting Started
+Proje geliştirme sürecinde Visual Studio Code, Android Studio ve Flutter SDK kullanılmıştır.
 
-This project is a starting point for a Flutter application.
+## ✨ Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+* 📱 Modern ve kullanıcı dostu arayüz tasarımı
+* 🛍️ Ürün listeleme ekranı
+* 📄 Ürün detay sayfası
+* 🎨 Kategorilere göre ürün görüntüleme
+* 💖 Favorilere ekleme özelliği
+* 📱 Responsive tasarım desteği
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Kullanılan Flutter Sürümü
+* Flutter 3.44.1 (Stable Channel)
+* Dart 3.12.1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠️ Kullanılan Teknolojiler
+
+* Flutter
+* Dart
+* Android Studio
+* Visual Studio Code
+* Material Design
+* Emilatör Pixel 9
+
+## 📸 Uygulama Ekran Görüntüleri
+
+### Ana Sayfa
+https://github.com/irmkoc07/shop_app/blob/main/Ana%20Ekran.PNG?raw=true
+
+### Detaylar Sayfası
+https://github.com/irmkoc07/shop_app/blob/main/detail1.PNG?raw=true
+https://github.com/irmkoc07/shop_app/blob/main/deatail.PNG?raw=true
+
+## 🚀 Kurulum ve Çalıştırma
+
+### Gereksinimler
+
+* Flutter SDK
+* Android Studio
+* Visual Studio Code
+* Android Emulator veya fiziksel Android cihaz
+
+
+### Çalıştırma Adımları
+Uygulama Flutter SDK kullanılarak geliştirilmiştir. Proje Android Studio veya Visual Studio Code üzerinden açılarak emülatörde çalıştırılmıştır.
+
+Projeyi çalıştırmak için:
+flutter pub get
+flutter run
+
+## 👩‍💻 Geliştirici
+
+İremnur Koç
+
+Flutter ile geliştirilmiş örnek bir mobil e-ticaret uygulaması.
