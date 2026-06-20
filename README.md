@@ -31,7 +31,7 @@ Proje geliştirme sürecinde Visual Studio Code, Android Studio ve Flutter SDK k
 ## 📸 Uygulama Ekran Görüntüleri
 
 ### Ana Sayfa
-<img width="705" height="1060" alt="Ana Ekran" src="https://github.com/user-attachments/assets/7311eea0-9ce3-414f-9f00-aae486cfe3a1" />
+<img width="305" height="660" alt="Ana Ekran" src="https://github.com/user-attachments/assets/7311eea0-9ce3-414f-9f00-aae486cfe3a1" />
 
 ### Detaylar Sayfası
 https://github.com/irmkoc07/shop_app/blob/main/detail1.PNG?raw=true
