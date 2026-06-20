@@ -1,4 +1,4 @@
-# 🛍️ Shop App - Flutter E-Commerce Application
+# 🛍️  Flutter ile Shop App 
 
 Bu proje, Flutter kullanılarak geliştirilmiş modern bir mobil e-ticaret uygulamasıdır. 
 Kullanıcıların ürünleri görüntüleyebilmesi, ürün detaylarını inceleyebilmesi ve kullanıcı dostu bir arayüz üzerinden alışveriş deneyimi yaşayabilmesi amaçlanmıştır.
